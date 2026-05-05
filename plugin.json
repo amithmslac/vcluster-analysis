@@ -1,0 +1,11 @@
+{
+  "name": "vcluster-analysis",
+  "description": "Analyze vcluster health, connectivity, and workload status on S3DF Kubernetes infrastructure.",
+  "version": "0.1.0",
+  "skills": [
+    {
+      "name": "vcluster-analysis",
+      "path": "SKILL.md"
+    }
+  ]
+}
